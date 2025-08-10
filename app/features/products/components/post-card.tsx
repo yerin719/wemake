@@ -46,8 +46,8 @@ export function PostCard({
           </div>
         </CardHeader>
         <CardFooter className="flex justify-end">
-          <Button variant="link" asChild>
-            <Link to={`/community/${id}`}>Reply &rarr;</Link>
+          <Button variant="link" className="cursor-pointer">
+            Reply &rarr;
           </Button>
         </CardFooter>
       </Card>
