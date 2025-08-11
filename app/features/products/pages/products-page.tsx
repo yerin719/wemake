@@ -1,9 +1,5 @@
-import React from "react";
+import { redirect } from "react-router";
 
-export default function ProductsPage() {
-  return (
-    <div className="min-h-screen flex items-center justify-center">
-      <h1 className="text-4xl font-bold">Products Page</h1>
-    </div>
-  );
+export function loader() {
+  return redirect("/products/leaderboards");
 }
