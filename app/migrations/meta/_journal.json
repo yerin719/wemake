@@ -43,6 +43,13 @@
       "when": 1755749518791,
       "tag": "0005_steady_james_howlett",
       "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "7",
+      "when": 1755750332817,
+      "tag": "0006_striped_magus",
+      "breakpoints": true
     }
   ]
 }
