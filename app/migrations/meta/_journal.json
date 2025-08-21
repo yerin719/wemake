@@ -29,6 +29,13 @@
       "when": 1755748537339,
       "tag": "0003_true_cassandra_nova",
       "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1755749036204,
+      "tag": "0004_glossy_lester",
+      "breakpoints": true
     }
   ]
 }
