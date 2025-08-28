@@ -57,6 +57,13 @@
       "when": 1756368120526,
       "tag": "0007_absent_hemingway",
       "breakpoints": true
+    },
+    {
+      "idx": 8,
+      "version": "7",
+      "when": 1756372180089,
+      "tag": "0008_greedy_santa_claus",
+      "breakpoints": true
     }
   ]
 }
