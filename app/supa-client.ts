@@ -14,6 +14,9 @@ type Database = MergeDeep<
             string | null
           >;
         };
+        gpt_ideas_view: {
+          Row: SetNonNullable<Tables<"gpt_ideas_view">>;
+        };
       };
     };
   }
