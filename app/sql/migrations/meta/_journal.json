@@ -78,6 +78,13 @@
       "when": 1756891330390,
       "tag": "0010_robust_shinko_yamashiro",
       "breakpoints": true
+    },
+    {
+      "idx": 11,
+      "version": "7",
+      "when": 1756892786013,
+      "tag": "0011_daily_captain_cross",
+      "breakpoints": true
     }
   ]
 }
