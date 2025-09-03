@@ -17,6 +17,9 @@ type Database = MergeDeep<
         gpt_ideas_view: {
           Row: SetNonNullable<Tables<"gpt_ideas_view">>;
         };
+        product_overview_view: {
+          Row: SetNonNullable<Tables<"product_overview_view">>;
+        };
       };
     };
   }
